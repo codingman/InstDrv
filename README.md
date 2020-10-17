@@ -5,4 +5,4 @@
       1.支持驱动文件拖拽
       2.采取运行、暂停驱动多线程，不卡界面UI
       3.支持win7系统以上
-      ![](InstDrv.png)
+      ![image](https://github.com/BeneficialCode/InstDrv/InstDrv.png)
