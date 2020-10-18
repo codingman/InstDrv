@@ -57,7 +57,7 @@
     <Image Include="res\InstDrv.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="F:\Windows API\InstDrv\InstDrv\main.ico">
+    <Image Include="res\main.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

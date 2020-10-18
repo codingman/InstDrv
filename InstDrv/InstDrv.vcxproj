@@ -221,7 +221,7 @@
     <ResourceCompile Include="InstDrv.rc" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="F:\Windows API\InstDrv\InstDrv\main.ico" />
+    <Image Include="res\main.ico" />
     <Image Include="res\InstDrv.ico" />
   </ItemGroup>
   <ItemGroup>
