@@ -3,6 +3,6 @@
  功能：
  
       1.支持驱动文件拖拽
-      2.采取运行、暂停驱动多线程，不卡界面UI
+      2.采取运行、停止驱动服务采取多线程，不卡界面UI
       3.支持win7系统以上
 ![image](https://github.com/BeneficialCode/InstDrv/blob/master/InstDrv.jpg)
